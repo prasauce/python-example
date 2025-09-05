@@ -1,0 +1,25 @@
+# IDEA files
+/.idea
+
+# pytest cache files
+**/.pytest_cache
+**/__pycache__
+
+# Virtual Environment Info
+/venv
+
+# DS_Store
+**.DS_store
+
+# Package Files
+*.jar
+*.zip
+*.tar.gz
+*.rar
+*.war
+
+# Robotframework
+.pabotsuitenames
+pabot_results/*
+*xml
+*html
